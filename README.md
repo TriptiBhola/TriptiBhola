@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Full stack Development
 - 💞️ I’m looking to collaborate on live projects
-- 📫 How to reach me ...
+- 📫 Reach me @ upwork @Tripti bhola
 
 <!---
 TriptiBhola/TriptiBhola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
